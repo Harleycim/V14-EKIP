@@ -140,4 +140,4 @@ Bot açılışta ve 60sn’de bir bu ayarı okuyup uygular.
 
 ## Lisans
 
-Proje içi kullanımınıza göre düzenleyin.
+MIT License. Detaylar için `LICENSE` dosyasına bak.
